@@ -26,7 +26,5 @@
 
 |Тема | Материалы | Конспект/Notebook | Other |
 |---|--- |---|---|
-| Intro Python | <ul><li>Введение в NumPy, SciPy, Pandas, Scikit-Learn </li> <li>Шапргалка </li></ul> | [Notebook](hw1/lecture_01.ipynb) <br> [Шпаргалка](hw1/pandas_tips.pdf) |  <ul> <li>[ods](https://habrahabr.ru/company/ods/blog/322626/)</li>,<li>[ml corse Соколов](https://github.com/esokolov/ml-course-msu/blob/master/ML16/lecture-notes/Sem01_intro.pdf) </li>
-<li>[Слайды знакомство с Pandas](https://alexanderdyakonov.wordpress.com/2015/11/06/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-pandas-%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B)/</li>
-<li>[scipy лекции](http://www.scipy-lectures.org/index.html)</li>
+| Intro Python | <ul><li>Введение в NumPy, SciPy, Pandas, Scikit-Learn </li>  <li>Шапргалка </li></ul> | [Notebook](hw1/lecture_01.ipynb) <br> [HW](hw1/hw_01.ipynb) <br> [Шпаргалка](hw1/pandas_tips.pdf) |  <ul> <li>[ods](https://habrahabr.ru/company/ods/blog/322626/)</li><li>[ml course Соколов](https://github.com/esokolov/ml-course-msu/blob/master/ML16/lecture-notes/Sem01_intro.pdf) </li><li>[Слайды знакомство с Pandas](https://alexanderdyakonov.wordpress.com/2015/11/06/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-pandas-%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B)/</li><li>[scipy лекции](http://www.scipy-lectures.org/index.html)</li>
 </ul> |
