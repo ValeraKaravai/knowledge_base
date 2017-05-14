@@ -21,7 +21,7 @@ data/
 
 # Jupyter Notebook checkpoints folder
 .ipynb_checkpoints/
-
+.idea/
 # OSX general
 .DS_Store
 .AppleDouble
