@@ -16,12 +16,11 @@ vignettes/*.html
 vignettes/*.pdf
 *.html
 
-# data/scratch folders
-data/
-
 # Jupyter Notebook checkpoints folder
 .ipynb_checkpoints/
 .idea/
+../.ipynb_checkpoints/
+../.idea/
 # OSX general
 .DS_Store
 .AppleDouble
