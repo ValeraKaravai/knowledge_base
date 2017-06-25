@@ -16,7 +16,6 @@ vignettes/*.html
 vignettes/*.pdf
 *.html
 
-!*.nb.html
 # Jupyter Notebook checkpoints folder
 .ipynb_checkpoints/
 .idea/
